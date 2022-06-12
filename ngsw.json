@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1654994429399,
+  "timestamp": 1654995585974,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -28,6 +28,7 @@
         "ignoreVary": true
       },
       "urls": [
+        "/assets/icons/apple.png",
         "/assets/icons/icon-128x128.png",
         "/assets/icons/icon-144x144.png",
         "/assets/icons/icon-152x152.png",
@@ -37,6 +38,7 @@
         "/assets/icons/icon-72x72.png",
         "/assets/icons/icon-96x96.png",
         "/assets/img.html",
+        "/assets/img/apple_icon.png",
         "/assets/img/bg-task.png",
         "/assets/img/caminhao-de-lixo.png",
         "/assets/img/favicon.png",
@@ -50,15 +52,17 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
-    "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
-    "/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
-    "/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
-    "/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
-    "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/assets/icons/apple.png": "23029a8edbdd51f9c6ed568feb5df397d87cbe56",
+    "/assets/icons/icon-128x128.png": "5f128545c19bdc2d93f6c0295414083660a47b0b",
+    "/assets/icons/icon-144x144.png": "d3ca0a5399743f750023676ceaa65ac117ebfd24",
+    "/assets/icons/icon-152x152.png": "d8bf25e4dbf1c7072c859d34b6425b880ae6488c",
+    "/assets/icons/icon-192x192.png": "451da0109aabb3c68c7037d12a8cea3095f34621",
+    "/assets/icons/icon-384x384.png": "1fe74716d80ac63387ee2b2de2427d34fa080f3b",
+    "/assets/icons/icon-512x512.png": "c83e01c68823735e83f819470ba4cf5a99c5c912",
+    "/assets/icons/icon-72x72.png": "7ce5732eecf61a55a5f6c246628925754c6ddf49",
+    "/assets/icons/icon-96x96.png": "294806441484d7cb1a6e1453c3172729021a9165",
     "/assets/img.html": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "/assets/img/apple_icon.png": "23029a8edbdd51f9c6ed568feb5df397d87cbe56",
     "/assets/img/bg-task.png": "d472c7dfcbdd20cd418add2dcfd39edfcedba01b",
     "/assets/img/caminhao-de-lixo.png": "598ba3fe6f3060f85a153914aa47880c317b96e3",
     "/assets/img/favicon.png": "30f8edbd27dcbe64dec1709300cbc71a1bb6dea8",
@@ -66,9 +70,9 @@
     "/assets/img/icon.png": "cc82aa06dabe68d47f78f9a3def28d56a1585693",
     "/assets/img/soulcode.png": "25c2c071774e9d6a9e4b30a0007e71b2b9cbb9c8",
     "/bg-task.765b030d7a1f0e2a.png": "d472c7dfcbdd20cd418add2dcfd39edfcedba01b",
-    "/index.html": "0cabada8561745c6478afc045a91b0b4c661e2c4",
+    "/index.html": "b96e208068a7232a14f651ae9b5771d1f26b9f22",
     "/main.075ffa1aec00af90.js": "4bce35f7b312e7546707f283497f474f0d68e9ef",
-    "/manifest.webmanifest": "201aa3640503f91c881a854ed3d6a79a038bb605",
+    "/manifest.webmanifest": "7aef41706b2066bf1895a870259ace14825b3bd7",
     "/polyfills.ec51642015a485c1.js": "8d3edeea5014740d632c5dd4bd1bde854eac0bd9",
     "/runtime.49b86ca2046e4565.js": "4ac5bab894abaeac63d94584a10e3647bcf7486e",
     "/styles.79cfd0bb71baf0ee.css": "dfc2c57bb4a1e53b2406e9738ba880dab35c371e"

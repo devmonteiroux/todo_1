@@ -1,6 +1,6 @@
 {
-  "name": "todolist",
-  "short_name": "todolist",
+  "name": "SoulCode - TodoList",
+  "short_name": "SoulList",
   "theme_color": "#1976d2",
   "background_color": "#fafafa",
   "display": "standalone",
